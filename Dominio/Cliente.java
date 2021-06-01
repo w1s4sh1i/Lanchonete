@@ -24,10 +24,6 @@ public class Cliente extends Pessoa {
      (done!) > Data de cadastro (2); (done!)
 		 */
 	}
-
-
-  
-
 	//----------------Métodos de acesso: --------------------
 	
 	/**

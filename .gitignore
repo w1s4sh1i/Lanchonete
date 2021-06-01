@@ -24,3 +24,8 @@ hs_err_pid*
 
 # visual studio code confs
 *.vscode
+/nbproject/private/
+/build/
+/manifest.mf
+/build.xml
+/nbproject/
